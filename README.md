@@ -6,3 +6,5 @@ Kotgale Harish
 
 # College
   VBIT
+# Department 
+COMPUTER SCIENCE AND ENGINEERING
